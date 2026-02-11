@@ -1,12 +1,3 @@
-# Cocktail-RAG
-
-En este proyecto usamos la base "Cocktail Recipes" ([ver enlace](Documento_Explicativo_CocktailRAG.pdf)) 
-para implementar la metodología de **Retrieval Augmented Generation (RAG)**.  
-El sistema toma ingredientes, recetas y datos de los cócteles de la base y propone cocteles para preparar según el input del usuario.  
-
-Usamos **Sentence Transformers** como encoder y **Mistral 7b** como decoder.
-
-
 # 🍸 Cocktail RAG - Sistema de Recomendación de Cocteles
 
 Un sistema de Retrieval Augmented Generation (RAG) que recomienda cocteles personalizados basándose en ingredientes, recetas y preferencias del usuario.
